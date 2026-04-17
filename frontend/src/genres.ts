@@ -1,4 +1,4 @@
-import { genresApi, type Genre } from './api';
+import { genresApi, type Genre } from './api.js';
 
 let editingId: number | null = null;
 

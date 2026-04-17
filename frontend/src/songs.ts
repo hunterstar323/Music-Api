@@ -1,4 +1,4 @@
-import { songsApi, genresApi, type Song, type Genre } from './api';
+import { songsApi, genresApi, type Song, type Genre } from './api.js';
 
 let editingId: number | null = null;
 let genresList: Genre[] = [];

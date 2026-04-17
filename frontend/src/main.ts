@@ -1,6 +1,6 @@
 import './style.css';
-import { renderGenres } from './genres';
-import { renderSongs } from './songs';
+import { renderGenres } from './genres.js';
+import { renderSongs } from './songs.js';
 
 const app = document.getElementById('app')!;
 
